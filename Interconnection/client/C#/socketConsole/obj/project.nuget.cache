@@ -1,0 +1,33 @@
+{
+  "version": 2,
+  "dgSpecHash": "IMXYBfO38D8sGnGD69gJomB10v3aDrBijY/bYLZAmj7HPugPqpVCbtLJb7CXLarbE78ic71xLSh4oadjvlgd7w==",
+  "success": false,
+  "projectFilePath": "C:\\Users\\Notch\\Downloads\\Lab 2 Socket amp Threads-20240321\\C#\\socketConsole\\socketConsole.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Unable to load the service index for source https://api.nuget.org/v3/index.json.",
+      "libraryId": "Microsoft.WindowsDesktop.App.Ref"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Unable to load the service index for source https://api.nuget.org/v3/index.json.",
+      "libraryId": "Microsoft.NETCore.App.Ref"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Unable to load the service index for source https://api.nuget.org/v3/index.json.",
+      "libraryId": "Microsoft.AspNetCore.App.Ref"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Unable to load the service index for source https://api.nuget.org/v3/index.json.",
+      "libraryId": "Microsoft.NETCore.App.Host.win-x64"
+    }
+  ]
+}

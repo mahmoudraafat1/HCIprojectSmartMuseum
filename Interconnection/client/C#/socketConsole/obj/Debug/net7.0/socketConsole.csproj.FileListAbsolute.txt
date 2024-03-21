@@ -1,0 +1,30 @@
+/Users/moamenibrahem/Desktop/HCI/Spring/Socket/csharp/socketConsole/socketConsole/bin/Debug/net7.0/socketConsole
+/Users/moamenibrahem/Desktop/HCI/Spring/Socket/csharp/socketConsole/socketConsole/bin/Debug/net7.0/socketConsole.deps.json
+/Users/moamenibrahem/Desktop/HCI/Spring/Socket/csharp/socketConsole/socketConsole/bin/Debug/net7.0/socketConsole.runtimeconfig.json
+/Users/moamenibrahem/Desktop/HCI/Spring/Socket/csharp/socketConsole/socketConsole/bin/Debug/net7.0/socketConsole.dll
+/Users/moamenibrahem/Desktop/HCI/Spring/Socket/csharp/socketConsole/socketConsole/bin/Debug/net7.0/socketConsole.pdb
+/Users/moamenibrahem/Desktop/HCI/Spring/Socket/csharp/socketConsole/socketConsole/obj/Debug/net7.0/socketConsole.csproj.AssemblyReference.cache
+/Users/moamenibrahem/Desktop/HCI/Spring/Socket/csharp/socketConsole/socketConsole/obj/Debug/net7.0/socketConsole.GeneratedMSBuildEditorConfig.editorconfig
+/Users/moamenibrahem/Desktop/HCI/Spring/Socket/csharp/socketConsole/socketConsole/obj/Debug/net7.0/socketConsole.AssemblyInfoInputs.cache
+/Users/moamenibrahem/Desktop/HCI/Spring/Socket/csharp/socketConsole/socketConsole/obj/Debug/net7.0/socketConsole.AssemblyInfo.cs
+/Users/moamenibrahem/Desktop/HCI/Spring/Socket/csharp/socketConsole/socketConsole/obj/Debug/net7.0/socketConsole.csproj.CoreCompileInputs.cache
+/Users/moamenibrahem/Desktop/HCI/Spring/Socket/csharp/socketConsole/socketConsole/obj/Debug/net7.0/socketConsole.dll
+/Users/moamenibrahem/Desktop/HCI/Spring/Socket/csharp/socketConsole/socketConsole/obj/Debug/net7.0/refint/socketConsole.dll
+/Users/moamenibrahem/Desktop/HCI/Spring/Socket/csharp/socketConsole/socketConsole/obj/Debug/net7.0/socketConsole.pdb
+/Users/moamenibrahem/Desktop/HCI/Spring/Socket/csharp/socketConsole/socketConsole/obj/Debug/net7.0/socketConsole.genruntimeconfig.cache
+/Users/moamenibrahem/Desktop/HCI/Spring/Socket/csharp/socketConsole/socketConsole/obj/Debug/net7.0/ref/socketConsole.dll
+/Users/moamenibrahem/Desktop/MSA/HCI/Spring/Socket/csharp/socketConsole 2/socketConsole/bin/Debug/net7.0/socketConsole
+/Users/moamenibrahem/Desktop/MSA/HCI/Spring/Socket/csharp/socketConsole 2/socketConsole/bin/Debug/net7.0/socketConsole.deps.json
+/Users/moamenibrahem/Desktop/MSA/HCI/Spring/Socket/csharp/socketConsole 2/socketConsole/bin/Debug/net7.0/socketConsole.runtimeconfig.json
+/Users/moamenibrahem/Desktop/MSA/HCI/Spring/Socket/csharp/socketConsole 2/socketConsole/bin/Debug/net7.0/socketConsole.dll
+/Users/moamenibrahem/Desktop/MSA/HCI/Spring/Socket/csharp/socketConsole 2/socketConsole/bin/Debug/net7.0/socketConsole.pdb
+/Users/moamenibrahem/Desktop/MSA/HCI/Spring/Socket/csharp/socketConsole 2/socketConsole/obj/Debug/net7.0/socketConsole.csproj.AssemblyReference.cache
+/Users/moamenibrahem/Desktop/MSA/HCI/Spring/Socket/csharp/socketConsole 2/socketConsole/obj/Debug/net7.0/socketConsole.GeneratedMSBuildEditorConfig.editorconfig
+/Users/moamenibrahem/Desktop/MSA/HCI/Spring/Socket/csharp/socketConsole 2/socketConsole/obj/Debug/net7.0/socketConsole.AssemblyInfoInputs.cache
+/Users/moamenibrahem/Desktop/MSA/HCI/Spring/Socket/csharp/socketConsole 2/socketConsole/obj/Debug/net7.0/socketConsole.AssemblyInfo.cs
+/Users/moamenibrahem/Desktop/MSA/HCI/Spring/Socket/csharp/socketConsole 2/socketConsole/obj/Debug/net7.0/socketConsole.csproj.CoreCompileInputs.cache
+/Users/moamenibrahem/Desktop/MSA/HCI/Spring/Socket/csharp/socketConsole 2/socketConsole/obj/Debug/net7.0/socketConsole.dll
+/Users/moamenibrahem/Desktop/MSA/HCI/Spring/Socket/csharp/socketConsole 2/socketConsole/obj/Debug/net7.0/refint/socketConsole.dll
+/Users/moamenibrahem/Desktop/MSA/HCI/Spring/Socket/csharp/socketConsole 2/socketConsole/obj/Debug/net7.0/socketConsole.pdb
+/Users/moamenibrahem/Desktop/MSA/HCI/Spring/Socket/csharp/socketConsole 2/socketConsole/obj/Debug/net7.0/socketConsole.genruntimeconfig.cache
+/Users/moamenibrahem/Desktop/MSA/HCI/Spring/Socket/csharp/socketConsole 2/socketConsole/obj/Debug/net7.0/ref/socketConsole.dll
